@@ -70,5 +70,6 @@ If you have any feedback, please reach out to us at fake@fake.com
 
 ## Demo
 
-Insert gif or link to demo
+iner for vew the brogect 
+[Demo](https://github.com/UstL3/lec7.git)
 
